@@ -1,10 +1,12 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Python, Graph Neural Network, Multiagent
+- 📫 How to reach me: dinghongli@nudt.edu.cn.
+
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mangoding71&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-- 🌱 I’m currently learning Python, Graph Neural Network, Multiagent
-- 📫 How to reach me: dinghongli@nudt.edu.cn.
 
 
 
